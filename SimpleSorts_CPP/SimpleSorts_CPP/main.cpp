@@ -14,7 +14,7 @@ int main()
 		//std::cout << nums[i] << std::endl;
 	}
 
-	Bubble(nums, 6);
+	Insertion(nums, 5);
 
 	for (int i = 0; i < 5; i++)
 	{
